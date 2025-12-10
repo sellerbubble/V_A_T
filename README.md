@@ -1,4 +1,4 @@
-# VAT 
+# VAT : Vision Action Transformer by Unlocking Full Representation of ViT
 
 ## Paper Link
 https://arxiv.org/abs/2512.06013
